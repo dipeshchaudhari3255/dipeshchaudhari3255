@@ -1,8 +1,7 @@
 # 💫 About Me
 
 Senior .NET Backend Engineer with strong experience building **scalable, secure, and high-performance applications** using **ASP.NET Core** and modern backend practices.
-
-🔭 Currently building a **Social Media Platform** using **ASP.NET Core (.NET 8)** and **React**, focusing on performance, scalability, and clean architecture.  
+  
 👯 Open to collaborating on **backend-heavy systems**, **microservices**, and **performance-critical applications**.  
 🤝 Experienced in **system optimization**, **message queues**, **caching**, and **secure authentication**.  
 🌱 Actively improving skills in **AWS**, **distributed systems**, and **modern frontend state management**.  
