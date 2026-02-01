@@ -1,7 +1,7 @@
 # 💫 About Me
 
-Senior .NET Backend Engineer with strong experience building **scalable, secure, and high-performance applications** using **ASP.NET Core** and modern backend practices.
-  
+Senior .NET Backend Engineer with strong experience building **scalable, secure, and high-performance applications** using **ASP.NET Core** and modern backend practices, with a focus on real-world production systems.
+
 👯 Open to collaborating on **backend-heavy systems**, **microservices**, and **performance-critical applications**.  
 🤝 Experienced in **system optimization**, **message queues**, **caching**, and **secure authentication**.  
 🌱 Actively improving skills in **AWS**, **distributed systems**, and **modern frontend state management**.  
@@ -43,7 +43,7 @@ Senior .NET Backend Engineer with strong experience building **scalable, secure,
 ## 💻 Tech Stack
 
 **Backend & Languages**  
-- C#, ASP.NET Core (.NET 6/7/8/9/10), Web APIs  
+- C#, ASP.NET Core (.NET 6+), Web APIs  
 
 **Databases & Caching**  
 - PostgreSQL, SQL Server, MySQL  
@@ -64,15 +64,15 @@ Senior .NET Backend Engineer with strong experience building **scalable, secure,
 
 ## 🌍 Open Source
 
-- Exploring contributions to **dotnet/aspnetcore**
+- Actively exploring contributions to **dotnet/aspnetcore**
 - Interested in **bug fixes**, **performance improvements**, and **developer tooling**
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dipesh.chaudhari2105?igsh=a25jbmhrbzRzNDky)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/dipeshchaudhari2105](https://www.linkedin.com/in/dipeshchaudhari2105/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dipesh.chaudhari2105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipeshchaudhari2105/)
 
 ---
 
