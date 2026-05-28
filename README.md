@@ -101,4 +101,4 @@ Currently at **Microvista Technologies** · Previously **Casepoint**
 
 *"Clean architecture isn't a buzzword in my work — it's the baseline."*
 
-</div>****
+</div>
